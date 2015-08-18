@@ -1,0 +1,33 @@
+"ADD_TO_REACHABILITY" = "Adicionar a Reachability";
+
+"ALBUM_ART_CORNER_RADIUS" = "Raio dos Cantos da capa do Album";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Nem todas  as vistas mostram a miniatura da capa do Album, mas se a sua escolha o fizer irá controlar o raio dos cantos. \n *Toque no número para introduzir um número manualmente. Decimais não são suportados de momento.";
+
+"ART_OVERLAY_THEME" = "Tema de Sobreposição da Capa";
+
+"COLORIZE_CONTROL_CENTER" = "Colorir o Centro de Controle";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "Quando esta opção estiver ativa, Bragi irá tentar colorir o Centro de Controle para tentar igualar a capa do álbum. De momento ainda é experimental mas será melhorado com o tempo.";
+
+"CONFIGURATION" = "Configuração";
+
+"ENABLE" = "Ativar";
+
+"HIDE_HEART" = "Esconder Coração";
+
+"HIDE_SHARE" = "Esconder o botão de  Partilha";
+
+"INVERT_FOOTER_TEXT" = "Algumas pessoas poderão gostar de deslizar para a esquerda para mudar de música em vez de ir para a música seguinte e deslizar para a direita para ir para a música anterior.";
+
+"INVERT_SWIPE_ACTIONS" = "Inverter Ações de Deslize";
+
+"MAKERS" = "Criadores";
+
+"SUPPORT" = "Suporte";
+
+"TRANSLATION_CREDITS" = "Créditos de Tradução";
+
+"USE_CUSTOM_COVER_OVERLAY" = "Usar Capa Personalizada";
+
+"USE_VIBRANCY_LABELS" = "Usar Etiquetas Vibrancy";
